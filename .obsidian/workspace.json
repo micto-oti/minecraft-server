@@ -25,13 +25,14 @@
             "id": "b789830251556561",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "domain/Анализ предметной области.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "Анализ предметной области"
             }
           }
         ],
@@ -156,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "domain/Анализ предметной области.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Анализ предметной области"
             }
           },
           {
